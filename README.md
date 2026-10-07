@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/tux.webp" alt="TuxAssist" width="150">
+<img src="assets/tux.svg" alt="TuxAssist" width="150">
 
 # TuxAssist
 
